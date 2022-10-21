@@ -3,6 +3,7 @@
 Name of the Project:  Predicting the energy output of wind turbine based on weather condition.
 
 Team : 
+
        Sanjai V S - Leader
 
        Sudharsan V K 
