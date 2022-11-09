@@ -1,18 +1,28 @@
 # IBM-Project-51639-1660981113
 
-Name of the Project:  Predicting the energy output of wind turbine based on weather condition.
+<b>Name of the Project:</b>  
+<i>Predicting the energy output of wind turbine based on weather condition.</i>
 
-Team : 
+# Team Details: 🕺🏻🕺🏻🕺🏻🕺🏻
 
-       Sanjai V S - Leader
+       Sanjai V S             Leader
 
-       Sudharsan V K 
+       Sudharsan V K          Member 1
        
-       Jeyganesh S
+       Jeyganesh S            Member 2
        
-       Laskhmi Kandan Velu
+       Laskhmi Kandan Velu    Member 3
        
-Usage of Language : Python, Python Flask, Machine Learning,IBM Cloud
+# Usage of Language : 💻
 
 
+      1️⃣ Python
+      2️⃣ Python Flask
+      3️⃣ Machine Learning
+      4️⃣ IBM Cloud
+
+![](https://komarev.com/ghpvc/?username=IBM-Project-51639-1660981113&label=PROFILE+VIEWS)
+
+
+# Thank You 🤓
 
