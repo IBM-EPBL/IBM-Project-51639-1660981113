@@ -1,0 +1,82 @@
+<html>
+	<head>
+	<title>Wind Energy Prediction</title>
+	<style>
+
+		.header {	
+			top:0px;	
+			margin:0px;
+			left: 0px;
+			right: 0px;
+			position: fixed;
+			background: #6c493a;
+			color: white;
+			overflow: hidden;
+			padding-bottom: 30px;
+			font-size: 2.25vw;
+			width: 100%;
+			padding-left:0px;
+			text-align: center;
+			padding-top:20px;
+		}
+		.second{
+			top:80px;
+			bottom:0px;
+			margin:0px;
+			left: 0px;
+			right: 0px;
+			position: fixed;
+			padding: 0px;
+			width: 100%;
+			background-image:url(https://c1.wallpaperflare.com/preview/623/531/630/596ca965a2e3f.jpg); 
+			background-repeat:no-repeat;
+			background-size: contain;
+		}
+		.inside{
+			top:80px;
+			bottom:0px;
+			margin:0px;
+			left: 45%;
+			right: 0%;
+			position: fixed;
+			padding-left: 40px;
+			padding-top:8%;
+			padding-right:40px;
+			background-color:#F2D19A;
+			font-family:Georgia, serif;
+			color:black;
+			font-size:20px;
+			text-align:justify;
+			
+		}
+		.myButton{
+			  border: none;
+			  text-align: center;
+			  cursor: pointer;
+			  text-transform: uppercase;
+			  outline: none;
+			  overflow: hidden;
+			  color: #fff;
+			  font-weight: 700;
+			  font-size: 12px;
+			  background-color: #6c493a;
+			  padding: 10px 15px;
+			  margin: 0 auto;
+			  box-shadow: 0 5px 15px rgba(0,0,0,0.20);
+		}
+	</style>
+	</head>
+	<body>
+		
+		<div class="header">Predicting The Energy Output Of Wind Turbine Based On Weather Condition</div>
+		<div class="second">
+			<div class="inside">Renewable energy, such as wind and solar energy, plays an increasing role in the supply of energy worldwide. This trend will continue because global energy demand is increasing, and the use of nuclear power and traditional sources of energy such as coal and oil is unsafe and leads to a large amount of CO2 emission. Wind energy is a key player in the field of renewable energy. In Europe, the capacity of wind energy production has doubled from 2009 to 2010. <br><br>
+However, levels of production of wind energy are hard to predict as they rely on potentially unstable weather conditions present at the wind farm. In particular, wind speed is crucial for energy production based on wind, and it may vary drastically over time. Energy suppliers are interested in accurate predictions, as they can avoid overproduction by coordinating the collaborative production of traditional power plants and weather-dependent energy sources. The energy can be predicted based on the power curve and the windspeed.
+		<br><br><br>
+		<a href="{{url_for('predict')}}"><button type="button" class="myButton" >Want to predict the energy??</button></a>
+		</div>
+		
+		
+		</div>
+	</body>
+</html>
